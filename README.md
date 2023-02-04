@@ -4,7 +4,8 @@
 -🌱 Currently learning:Python,Power BI,Tableau
 
 -🤔 I have basic knowledge of SQL,HTML,C,C++
-   -📸/🎞 Canva,Gimp,Inkscap
+
+-📸/🎞 Canva,Gimp,Inkscap
 
 -😄 I have learnt Financial analysis and Advance Excel (Certifications)
 
