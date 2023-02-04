@@ -1,8 +1,12 @@
-### Hi👋 I'm Viplav Lotlikar!
+### Hi👋 I'm Viplav Lotlikar!!
 -⚡  I'm currently pursuing MBA in Finance And IT
+
 -🌱 Currently learning:Python,Power BI 
+
 -🤔 I have basic knowledge of SQL,HTML,C,C++
+
 -😄 I have learnt Financial analysis and Advance Excel (Certifications)
+
 -📫 How to reach me:viplavlotlikar@gmail.com
 
 <!--
