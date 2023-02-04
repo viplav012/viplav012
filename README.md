@@ -5,9 +5,10 @@
 
 -🤔 I have basic knowledge of SQL,HTML,C,C++
 
+
 -📸/🎞 Canva,Gimp,Inkscap
 
--😄 I have learnt Financial analysis and Advance Excel (Certifications)
+-😄 I have learnt Financial analysis , Advance Excel, N.I.S.M (Certifications)
 
 -📫 How to reach me:viplavlotlikar@gmail.com
 
